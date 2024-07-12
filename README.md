@@ -30,7 +30,7 @@
 - **📫 How to Reach Me:**
   - **🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)**
   - **🐦 [Twitter](https://twitter.com/your-profile)**
-  - **📧 [Email](mailto:your-email@example.com)**
+  - **📧 [Email](mailto:khoemradom1771@gmail.com)**
 
 ## Languages
 - **👨‍💻 Backend Development:** ![Java](https://img.shields.io/badge/Java-Spring%20Boot-green), ![Python](https://img.shields.io/badge/Python-blue), ![C#](https://img.shields.io/badge/C%23-purple)
@@ -41,16 +41,6 @@
 
 ## Fun Fact
 - **⚡ Fun Fact:** Companies adopting DevOps practices can deploy code up to 30 times more frequently than their competitors, with a failure rate that's less than half as high.
-
-## Connect with Me
-- **🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)**
-- **🐦 [Twitter](https://twitter.com/your-profile)**
-- **📧 [Email](mailto:your-email@example.com)**
-
-## Projects
-- **📁 [Project 1](https://github.com/roldophe/project-1):** Brief description of Project 1.
-- **📁 [Project 2](https://github.com/roldophe/project-2):** Brief description of Project 2.
-- **📁 [Project 3](https://github.com/roldophe/project-3):** Brief description of Project 3.
 
 ![Dancing Robot](https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif)
 
