@@ -36,8 +36,10 @@
 - **👨‍💻 Backend Development:** ![Java](https://img.shields.io/badge/Java-Spring%20Boot-green), ![Python](https://img.shields.io/badge/Python-blue), ![C#](https://img.shields.io/badge/C%23-purple)
 - **🎨 Frontend Development:** ![React](https://img.shields.io/badge/ReactJS-blue), ![Angular](https://img.shields.io/badge/AngularJS-red)
 
-## Pronouns
-- **😄 Pronouns:** He/Him
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/begoingto/count.svg" />
+</p>
 
 ## Fun Fact
 - **⚡ Fun Fact:** Companies adopting DevOps practices can deploy code up to 30 times more frequently than their competitors, with a failure rate that's less than half as high.
