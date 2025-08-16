@@ -29,7 +29,7 @@
   - ![Cloud Migration](https://img.shields.io/badge/Cloud%20Migration-Plan%20%7C%20Execute-00aced)
 - **📫 How to Reach Me:**
   - **🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)**
-  - **🐦 [Twitter](https://twitter.com/your-profile)**
+  - **🐦 [Twitter](https://twitter.com/khoem-radom-4b037132b)** 
   - **📧 [Email](mailto:khoemradom1771@gmail.com)**
 
 ## Languages
